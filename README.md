@@ -12,3 +12,4 @@ Describing project at high level
 
 ### ERD (Entity Relationship Diagram made using [DB Diagram](https://dbdiagram.io/))
 
+![example diagram](dbdiagram_io.png)
