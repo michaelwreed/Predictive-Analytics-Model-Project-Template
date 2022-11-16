@@ -10,5 +10,5 @@ Describing project at high level
 - FUNDRAISING_DW_2
 - donorforce
 
-### ERD (Entity Relationship Diagram made using (DB Diagram)[https://dbdiagram.io/])
+### ERD (Entity Relationship Diagram made using [DB Diagram](https://dbdiagram.io/))
 
